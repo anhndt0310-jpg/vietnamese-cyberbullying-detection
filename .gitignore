@@ -1,0 +1,10 @@
+# Bỏ qua các file dữ liệu nặng và kết quả huấn luyện
+*.csv
+*.npy
+*.pkl
+*.pth
+
+# Bỏ qua các file hệ thống và cache
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
