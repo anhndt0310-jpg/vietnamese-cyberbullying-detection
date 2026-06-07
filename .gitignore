@@ -3,7 +3,6 @@
 *.npy
 *.pkl
 *.pth
-
 # Bỏ qua các file hệ thống và cache
 __pycache__/
 .ipynb_checkpoints/
